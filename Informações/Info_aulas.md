@@ -1,6 +1,6 @@
 ## Anotações Importantes: :memo:
 
-<kbd>Aqui estão as principais anotações: :book:</kbd>
+#### <kbd>Aqui estão as principais anotações: :book:</kbd>
 
 
 1. [Documentação do GIT](https://git-scm.com/docs/git/pt_BR)
